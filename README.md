@@ -43,7 +43,7 @@ Also from Kaggle, this dataset includes:
 - Normalized formats
 - Feature engineering: Aggregated sales per month, income brackets, etc.
 
-### 📈 Exploratory Data Analysis
+### Exploratory Data Analysis
 Used pandas, seaborn, and matplotlib to:
 - Understand distributions
 - Reveal customer behavior patterns
