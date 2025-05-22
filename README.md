@@ -66,7 +66,7 @@ Used pandas, seaborn, and matplotlib to:
 - Variables like `Recency` and `Complain` show minimal correlation with spending behavior.
 
 ### 2. Average Campaign Acceptance Rate by Marital Status
-![Average Campaign Acceptance Rate by Marital Status](Plots/Average Campaign Acceptance Rate by Marital Status.png)
+![Average Campaign Acceptance Rate by Marital Status](Plots/Average-Campaign-Acceptance-Rate-by-Marital-Status.png)
 
 **Insight:**  
 - Married and “Together” individuals respond more to marketing campaigns.
