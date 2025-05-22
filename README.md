@@ -73,7 +73,7 @@ Used pandas, seaborn, and matplotlib to:
 - Categories like “Alone” and “Absurd” display unusually high acceptance rates, suggesting potential data quality issues.
 
 ### 3. Average Income by Education Level
-![Average Income by Education Level](./Average%20Income%20by%20Education%20Level.png)
+![Average Income by Education Level](Plots/Average-Income-by-Education-Level.png)
 
 **Insight:**  
 - PhD holders earn the highest on average, followed by Master and Graduation levels.
@@ -81,28 +81,28 @@ Used pandas, seaborn, and matplotlib to:
 - Clear economic advantage tied to advanced degrees.
 
 ### 4. Campaign Acceptance by Education Level
-![Campaign Acceptance by Education Level](./Campaign%20Acceptance%20by%20Education%20Level.png)
+![Campaign Acceptance by Education Level](Plots/Campaign-Acceptance-by-Education-Level.png)
 
 **Insight:**  
 - Higher education levels (PhD, Master) correspond to greater campaign engagement.
 - Lower education groups show reduced responsiveness, possibly requiring different campaign strategies.
 
 ### 5. Distribution of Age
-![Distribution of Age](./Distribution%20of%20Age.png)
+![Distribution of Age](Plots/Distribution-of-Age.png)
 
 **Insight:**  
 - Most customers fall within the 40–60 age range.
 - Distribution is slightly skewed right; few customers are older than 80 or younger than 30.
 
 ### 6. Distribution of Customer Education Level
-![Distribution of Customer Education Level](./Distribution%20of%20Customer%20Education%20Level.png)
+![Distribution of Customer Education Level](Plots/Distribution-of-Customer-Education-Level.png)
 
 **Insight:**  
 - The largest group has a Graduation-level education.
 - There are significantly fewer customers with Basic or 2n Cycle education.
 
 ### 7. Spending Behavior by Marketing Campaign Participation
-![Spending Behavior by Marketing Campaign Participation](./Spending%20Behavior%20by%20Marketing%20Campaign%20Participation.png)
+![Spending Behavior by Marketing Campaign Participation](Plots/Spending-Behavior-by-Marketing-Campaign-Participation.png)
 
 **Insight:**  
 - Customers who accepted marketing campaigns spend significantly more.
