@@ -58,7 +58,7 @@ Used pandas, seaborn, and matplotlib to:
 ## 📊 Visualizations & Key Insights
 
 ### 1. Correlation Matrix
-![Correlation Matrix](Plots/Correlation Matrix.png)
+![Correlation Matrix](Plots/Correlation-Matrix.png)
 
 **Insight:**  
 - Income is positively correlated with spending on wines, meats, and other products.
