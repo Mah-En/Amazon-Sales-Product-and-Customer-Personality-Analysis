@@ -3,11 +3,11 @@
 
 Mahla Entezari  
 Shahid Beheshti University  
-📧 MahlaEntezari.sbu@gmail.com  
+📧 MahlaEntezariii@gmail.com  
 
 ---
 
-## 🧠 Abstract
+##  Abstract
 
 This project explores Amazon's sales data and customer personality metrics using data science techniques. The objective is to derive actionable insights to inform marketing strategies, inventory planning, and revenue optimization. The analysis combines sales trends with demographic and behavioral insights of customers to provide a comprehensive business intelligence view.
 
@@ -30,15 +30,15 @@ Also from Kaggle, this dataset includes:
 - Lifestyle metrics (number of children, recency)
 - Marketing campaign responses
 
-📌 **Sources**:
+ **Sources**:
 - [Amazon Sales Dataset](https://www.kaggle.com/datasets/mahlaentezari/amazon-dataset)
 - [Customer Personality Dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data)
 
 ---
 
-## 🛠️ Methods
+##  Methods
 
-### 🔍 Data Preprocessing
+###  Data Preprocessing
 - Handled missing values and duplicates
 - Normalized formats
 - Feature engineering: Aggregated sales per month, income brackets, etc.
@@ -49,7 +49,7 @@ Used pandas, seaborn, and matplotlib to:
 - Reveal customer behavior patterns
 - Identify seasonality and trends
 
-### 📊 Statistical Testing
+###  Statistical Testing
 - **Shapiro-Wilk** and **Kolmogorov-Smirnov** tests confirmed non-normality of the data.
 - These tests justified the use of non-parametric methods in follow-up analysis.
 
@@ -110,7 +110,7 @@ Used pandas, seaborn, and matplotlib to:
 
 ---
 
-## 📚 References
+##  References
 
 1. Amazon Sales Dataset - [Kaggle](https://www.kaggle.com/datasets/mahlaentezari/amazon-dataset)
 2. Customer Personality Dataset - [Kaggle](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data)
@@ -119,7 +119,7 @@ Used pandas, seaborn, and matplotlib to:
 
 ---
 
-## 💻 How to Run
+## How to Run
 
 1. Clone this repository.
 2. Install dependencies:
