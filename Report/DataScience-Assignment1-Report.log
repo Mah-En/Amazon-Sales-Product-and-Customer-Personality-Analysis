@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  25 MAR 2025 21:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  22 JUN 2025 00:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -451,62 +451,7 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count311
 \l__pdf_internal_box=\box101
 )
-(./DataScience-Assignment1-Report.aux
-
-LaTeX Warning: Label `fig:sales' multiply defined.
-
-
-LaTeX Warning: Label `fig:sub1' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:sub1' multiply defined.
-
-
-LaTeX Warning: Label `fig:sub2' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:sub2' multiply defined.
-
-
-LaTeX Warning: Label `fig:sub3' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:sub3' multiply defined.
-
-
-LaTeX Warning: Label `fig:multi' multiply defined.
-
-
-LaTeX Warning: Label `fig:sales' multiply defined.
-
-
-LaTeX Warning: Label `fig:sub1' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:sub1' multiply defined.
-
-
-LaTeX Warning: Label `fig:sub2' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:sub2' multiply defined.
-
-
-LaTeX Warning: Label `fig:sub3' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:sub3' multiply defined.
-
-
-LaTeX Warning: Label `fig:multi' multiply defined.
-
-
-LaTeX Warning: Label `dataset' multiply defined.
-
-
-LaTeX Warning: Label `dataset' multiply defined.
-
-)
+(./DataScience-Assignment1-Report.aux)
 \openout1 = `DataScience-Assignment1-Report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
@@ -607,10 +552,10 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 LaTeX Warning: No \author given.
 
-<Correlation Matrix.png, id=66, 792.9625pt x 592.2125pt>
-File: Correlation Matrix.png Graphic file (type png)
-<use Correlation Matrix.png>
-Package pdftex.def Info: Correlation Matrix.png  used on input line 128.
+<Plots/Correlation Matrix.png, id=6, 792.9625pt x 592.2125pt>
+File: Plots/Correlation Matrix.png Graphic file (type png)
+<use Plots/Correlation Matrix.png>
+Package pdftex.def Info: Plots/Correlation Matrix.png  used on input line 128.
 (pdftex.def)             Requested size: 358.50317pt x 267.74922pt.
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
@@ -640,112 +585,120 @@ Overfull \hbox (14.22636pt too wide) in paragraph at lines 166--179
 
 
 
-[6 <./Correlation Matrix.png>]
-<KDE Plot with Normal Curve Overlay.png, id=95, 861.2175pt x 506.89375pt>
-File: KDE Plot with Normal Curve Overlay.png Graphic file (type png)
-<use KDE Plot with Normal Curve Overlay.png>
-Package pdftex.def Info: KDE Plot with Normal Curve Overlay.png  used on input 
-line 202.
-(pdftex.def)             Requested size: 256.07481pt x 150.72348pt.
-<Distribution of Income.png, id=96, 788.9475pt x 495.8525pt>
-File: Distribution of Income.png Graphic file (type png)
-<use Distribution of Income.png>
-Package pdftex.def Info: Distribution of Income.png  used on input line 215.
-(pdftex.def)             Requested size: 153.64644pt x 96.566pt.
-<Distribution of Age.png, id=97, 784.9325pt x 490.83376pt>
-File: Distribution of Age.png Graphic file (type png)
-<use Distribution of Age.png>
-Package pdftex.def Info: Distribution of Age.png  used on input line 221.
-(pdftex.def)             Requested size: 153.64644pt x 96.07542pt.
-<Income vs. Spending on Wine (by Education Level).png, id=98, 790.955pt x 492.8
-4125pt>
-File: Income vs. Spending on Wine (by Education Level).png Graphic file (type p
-ng)
-<use Income vs. Spending on Wine (by Education Level).png>
-Package pdftex.def Info: Income vs. Spending on Wine (by Education Level).png  
-used on input line 227.
-(pdftex.def)             Requested size: 153.64644pt x 95.7314pt.
-<Distribution of Customer Education Level.png, id=99, 848.16875pt x 371.3875pt>
+[6 <./Plots/Correlation Matrix.png>]
+<Plots/KDE Plot with Normal Curve Overlay.png, id=46, 861.2175pt x 506.89375pt>
 
-File: Distribution of Customer Education Level.png Graphic file (type png)
-<use Distribution of Customer Education Level.png>
-Package pdftex.def Info: Distribution of Customer Education Level.png  used on 
-input line 265.
+File: Plots/KDE Plot with Normal Curve Overlay.png Graphic file (type png)
+<use Plots/KDE Plot with Normal Curve Overlay.png>
+Package pdftex.def Info: Plots/KDE Plot with Normal Curve Overlay.png  used on 
+input line 202.
+(pdftex.def)             Requested size: 256.07481pt x 150.72348pt.
+<Plots/Distribution of Income.png, id=47, 788.9475pt x 495.8525pt>
+File: Plots/Distribution of Income.png Graphic file (type png)
+<use Plots/Distribution of Income.png>
+Package pdftex.def Info: Plots/Distribution of Income.png  used on input line 2
+15.
+(pdftex.def)             Requested size: 153.64644pt x 96.566pt.
+<Plots/Distribution of Age.png, id=48, 784.9325pt x 490.83376pt>
+File: Plots/Distribution of Age.png Graphic file (type png)
+<use Plots/Distribution of Age.png>
+Package pdftex.def Info: Plots/Distribution of Age.png  used on input line 221.
+
+(pdftex.def)             Requested size: 153.64644pt x 96.07542pt.
+<Plots/Income vs. Spending on Wine (by Education Level).png, id=49, 790.955pt x
+ 492.84125pt>
+File: Plots/Income vs. Spending on Wine (by Education Level).png Graphic file (
+type png)
+<use Plots/Income vs. Spending on Wine (by Education Level).png>
+Package pdftex.def Info: Plots/Income vs. Spending on Wine (by Education Level)
+.png  used on input line 227.
+(pdftex.def)             Requested size: 153.64644pt x 95.7314pt.
+<Plots/Distribution of Customer Education Level.png, id=50, 848.16875pt x 371.3
+875pt>
+File: Plots/Distribution of Customer Education Level.png Graphic file (type png
+)
+<use Plots/Distribution of Customer Education Level.png>
+Package pdftex.def Info: Plots/Distribution of Customer Education Level.png  us
+ed on input line 265.
 (pdftex.def)             Requested size: 163.89162pt x 71.76007pt.
-<Campaign Acceptance by Education Level.png, id=100, 798.985pt x 495.8525pt>
-File: Campaign Acceptance by Education Level.png Graphic file (type png)
-<use Campaign Acceptance by Education Level.png>
-Package pdftex.def Info: Campaign Acceptance by Education Level.png  used on in
-put line 271.
+<Plots/Campaign Acceptance by Education Level.png, id=51, 798.985pt x 495.8525p
+t>
+File: Plots/Campaign Acceptance by Education Level.png Graphic file (type png)
+<use Plots/Campaign Acceptance by Education Level.png>
+Package pdftex.def Info: Plots/Campaign Acceptance by Education Level.png  used
+ on input line 271.
 (pdftex.def)             Requested size: 163.89162pt x 101.71094pt.
-<Average Income by Education Level.png, id=101, 813.0375pt x 555.07375pt>
-File: Average Income by Education Level.png Graphic file (type png)
-<use Average Income by Education Level.png>
-Package pdftex.def Info: Average Income by Education Level.png  used on input l
-ine 277.
+<Plots/Average Income by Education Level.png, id=52, 813.0375pt x 555.07375pt>
+File: Plots/Average Income by Education Level.png Graphic file (type png)
+<use Plots/Average Income by Education Level.png>
+Package pdftex.def Info: Plots/Average Income by Education Level.png  used on i
+nput line 277.
 (pdftex.def)             Requested size: 163.89162pt x 111.88516pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7 <./KDE Plot with Normal Curve Overlay.png> <./Distribution of Income.png> <.
-/Distribution of Age.png> <./Income vs. Spending on Wine (by Education Level).p
-ng>]
-<Average Campaign Acceptance Rate by Marital Status.png, id=112, 677.53125pt x 
-547.04375pt>
-File: Average Campaign Acceptance Rate by Marital Status.png Graphic file (type
- png)
-<use Average Campaign Acceptance Rate by Marital Status.png>
-Package pdftex.def Info: Average Campaign Acceptance Rate by Marital Status.png
-  used on input line 315.
+[7 <./Plots/KDE Plot with Normal Curve Overlay.png> <./Plots/Distribution of In
+come.png> <./Plots/Distribution of Age.png> <./Plots/Income vs. Spending on Win
+e (by Education Level).png>]
+<Plots/Average Campaign Acceptance Rate by Marital Status.png, id=65, 677.53125
+pt x 547.04375pt>
+File: Plots/Average Campaign Acceptance Rate by Marital Status.png Graphic file
+ (type png)
+<use Plots/Average Campaign Acceptance Rate by Marital Status.png>
+Package pdftex.def Info: Plots/Average Campaign Acceptance Rate by Marital Stat
+us.png  used on input line 315.
 (pdftex.def)             Requested size: 281.68385pt x 227.43628pt.
-<Box Plot of Age.png, id=113, 764.8575pt x 496.85625pt>
-File: Box Plot of Age.png Graphic file (type png)
-<use Box Plot of Age.png>
-Package pdftex.def Info: Box Plot of Age.png  used on input line 326.
+<Plots/Box Plot of Age.png, id=66, 764.8575pt x 496.85625pt>
+File: Plots/Box Plot of Age.png Graphic file (type png)
+<use Plots/Box Plot of Age.png>
+Package pdftex.def Info: Plots/Box Plot of Age.png  used on input line 326.
 (pdftex.def)             Requested size: 153.64644pt x 99.8092pt.
-<Boxplot of Income.png, id=114, 475.7775pt x 411.5375pt>
-File: Boxplot of Income.png Graphic file (type png)
-<use Boxplot of Income.png>
-Package pdftex.def Info: Boxplot of Income.png  used on input line 332.
+<Plots/Boxplot of Income.png, id=67, 475.7775pt x 411.5375pt>
+File: Plots/Boxplot of Income.png Graphic file (type png)
+<use Plots/Boxplot of Income.png>
+Package pdftex.def Info: Plots/Boxplot of Income.png  used on input line 332.
 (pdftex.def)             Requested size: 153.64644pt x 132.90036pt.
-<Income Distribution by Education Level.png, id=115, 804.00375pt x 498.86375pt>
-
-File: Income Distribution by Education Level.png Graphic file (type png)
-<use Income Distribution by Education Level.png>
-Package pdftex.def Info: Income Distribution by Education Level.png  used on in
-put line 338.
+<Plots/Income Distribution by Education Level.png, id=68, 804.00375pt x 498.863
+75pt>
+File: Plots/Income Distribution by Education Level.png Graphic file (type png)
+<use Plots/Income Distribution by Education Level.png>
+Package pdftex.def Info: Plots/Income Distribution by Education Level.png  used
+ on input line 338.
 (pdftex.def)             Requested size: 153.64644pt x 95.33316pt.
-<Spending Behavior by children Status.png, id=116, 665.48625pt x 493.845pt>
-File: Spending Behavior by children Status.png Graphic file (type png)
-<use Spending Behavior by children Status.png>
-Package pdftex.def Info: Spending Behavior by children Status.png  used on inpu
-t line 344.
+<Plots/Spending Behavior by children Status.png, id=69, 665.48625pt x 493.845pt
+>
+File: Plots/Spending Behavior by children Status.png Graphic file (type png)
+<use Plots/Spending Behavior by children Status.png>
+Package pdftex.def Info: Plots/Spending Behavior by children Status.png  used o
+n input line 344.
 (pdftex.def)             Requested size: 153.64644pt x 114.01147pt.
-<Spending Behavior by Marketing Campaign Participation.png, id=117, 662.475pt x
- 500.87125pt>
-File: Spending Behavior by Marketing Campaign Participation.png Graphic file (t
-ype png)
-<use Spending Behavior by Marketing Campaign Participation.png>
-Package pdftex.def Info: Spending Behavior by Marketing Campaign Participation.
-png  used on input line 350.
+<Plots/Spending Behavior by Marketing Campaign Participation.png, id=70, 662.47
+5pt x 500.87125pt>
+File: Plots/Spending Behavior by Marketing Campaign Participation.png Graphic f
+ile (type png)
+<use Plots/Spending Behavior by Marketing Campaign Participation.png>
+Package pdftex.def Info: Plots/Spending Behavior by Marketing Campaign Particip
+ation.png  used on input line 350.
 (pdftex.def)             Requested size: 153.64644pt x 116.16093pt.
-<Spending on Wine by Marital Status.png, id=118, 816.04875pt x 534.99875pt>
-File: Spending on Wine by Marital Status.png Graphic file (type png)
-<use Spending on Wine by Marital Status.png>
-Package pdftex.def Info: Spending on Wine by Marital Status.png  used on input 
-line 356.
+<Plots/Spending on Wine by Marital Status.png, id=71, 816.04875pt x 534.99875pt
+>
+File: Plots/Spending on Wine by Marital Status.png Graphic file (type png)
+<use Plots/Spending on Wine by Marital Status.png>
+Package pdftex.def Info: Plots/Spending on Wine by Marital Status.png  used on 
+input line 356.
 (pdftex.def)             Requested size: 153.64644pt x 100.72835pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8 <./Distribution of Customer Education Level.png> <./Campaign Acceptance by E
-ducation Level.png> <./Average Income by Education Level.png> <./Average Campai
-gn Acceptance Rate by Marital Status.png>] [9 <./Box Plot of Age.png> <./Boxplo
-t of Income.png> <./Income Distribution by Education Level.png> <./Spending Beh
-avior by children Status.png> <./Spending Behavior by Marketing Campaign Partic
-ipation.png> <./Spending on Wine by Marital Status.png>]
+[8 <./Plots/Distribution of Customer Education Level.png> <./Plots/Campaign Acc
+eptance by Education Level.png> <./Plots/Average Income by Education Level.png>
+ <./Plots/Average Campaign Acceptance Rate by Marital Status.png>] [9 <./Plots/
+Box Plot of Age.png> <./Plots/Boxplot of Income.png> <./Plots/Income Distributi
+on by Education Level.png> <./Plots/Spending Behavior by children Status.png> <
+./Plots/Spending Behavior by Marketing Campaign Participation.png> <./Plots/Spe
+nding on Wine by Marital Status.png>]
 Underfull \hbox (badness 5175) in paragraph at lines 492--493
 []\OT1/cmr/m/n/10 Dataset avail-able on Kag-gle: ``Cus-tomer Per-
  []
@@ -779,17 +732,24 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: File `DataScience-Assignment1-Report.out' has not 
-changed.
-(rerunfilecheck)             Checksum: 89FC63CFB79AE3B924633C59CC4BAE62;2130.
+
+Package rerunfilecheck Warning: File `DataScience-Assignment1-Report.out' has c
+hanged.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `DataScience-Assignment1-Report.out'
+:
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  89FC63CFB79AE3B924633C59CC4BAE62;2130.
  ) 
 Here is how much of TeX's memory you used:
- 13215 strings out of 473190
- 211184 string characters out of 5715801
- 637671 words of memory out of 5000000
- 36278 multiletter control sequences out of 15000+600000
+ 13199 strings out of 473190
+ 211587 string characters out of 5715801
+ 636612 words of memory out of 5000000
+ 36262 multiletter control sequences out of 15000+600000
  568500 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1219b,604s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -807,10 +767,10 @@ xlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
 live/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texl
 ive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texli
 ve/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on DataScience-Assignment1-Report.pdf (6 pages, 2023559 bytes).
+Output written on DataScience-Assignment1-Report.pdf (6 pages, 2022441 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
- 153 compressed objects within 2 object streams
+ 175 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
  31 named destinations out of 1000 (max. 500000)
- 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
