@@ -1,10 +1,6 @@
 
 # 📊 Amazon Sales and Customer Personality Analysis
 
-Mahla Entezari  
-Shahid Beheshti University  
-📧 MahlaEntezariii@gmail.com  
-
 ---
 
 ##  Abstract
@@ -31,7 +27,6 @@ Also from Kaggle, this dataset includes:
 - Marketing campaign responses
 
  **Sources**:
-- [Amazon Sales Dataset](https://www.kaggle.com/datasets/mahlaentezari/amazon-dataset)
 - [Customer Personality Dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/data)
 
 ---
