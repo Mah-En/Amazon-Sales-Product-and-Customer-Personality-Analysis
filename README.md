@@ -123,5 +123,5 @@ Used pandas, seaborn, and matplotlib to:
    ```
 3. Launch the notebook:
    ```bash
-   jupyter notebook Mahla_Entezari-Assignment-1.ipynb
+   jupyter notebook Assignment-1.ipynb
    ```
